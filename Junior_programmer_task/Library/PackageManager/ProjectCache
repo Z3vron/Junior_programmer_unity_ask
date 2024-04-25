@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638496531937035073
-    m_Hash: 3585480532
+      ticks: 638496566597004976
+    m_Hash: 404461029
   m_LockFileStatus:
     m_FilePath: D:/Programming/Unity/2D/Games/Junior_programmer_unity_ask/Junior_programmer_task/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638496532297556320
-    m_Hash: 1983639373
+      ticks: 638496566597004976
+    m_Hash: 568519726
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
